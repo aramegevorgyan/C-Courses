@@ -111,5 +111,4 @@ void ex4() {
         printf("\n");
     }
 
-    return 0;
 }
